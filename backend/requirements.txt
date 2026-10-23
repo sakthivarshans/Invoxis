@@ -1,0 +1,10 @@
+# Runtime
+fastapi==0.147.0
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.1.5
+pydantic==2.14.1
+pydantic-settings==2.16.0
+python-multipart==0.0.32
+PyMuPDF==2.0
+Pillow==13.0.0
+groq==1.7.0
