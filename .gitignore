@@ -1,0 +1,26 @@
+node_modules/
+.venv/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# --- backend runtime artifacts (never commit) ---
+backend/.venv/
+backend/.env
+backend/data/
+backend/storage/uploads/
+storage/*
+!storage/.gitkeep
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+.pytest_cache/
+*.xlsx
+.coverage
+.e2e-tmp/
