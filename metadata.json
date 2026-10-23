@@ -1,0 +1,6 @@
+{
+  "name": "INVOXIS AI - Intelligent Financial Document Processing",
+  "description": "Intelligent Financial Document Processing, Validation & Workflow Automation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
